@@ -1,0 +1,160 @@
+2024-02-27 20:50:09,153 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 20:50:09,154 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 20:50:09,154 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 20:50:09,154 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 20:50:09,154 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 20:50:09,154 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 20:50:12,920 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 20:50:14,449 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 20:50:15,841 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 20:50:19,827 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 20:56:50,072 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 20:56:50,072 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 20:56:50,073 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 20:56:50,073 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 20:56:50,073 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 20:56:50,073 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 20:56:55,313 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 20:56:56,965 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 20:56:58,399 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 20:57:02,785 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 20:59:35,905 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 20:59:35,906 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 20:59:35,907 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 20:59:35,907 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 20:59:35,907 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 20:59:35,907 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 20:59:39,906 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 20:59:41,159 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 20:59:42,130 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 20:59:44,222 - INFO - Test_User_Profile - test_UserLogin - test is Fail
+2024-02-27 21:02:02,859 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:02:02,860 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:02:02,860 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:02:02,860 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:02:02,860 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:02:02,861 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:02:14,580 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:02:17,075 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:02:21,121 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:02:23,352 - INFO - Test_User_Profile - test_UserLogin - test is Fail
+2024-02-27 21:04:25,014 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:04:25,015 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:04:25,015 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:04:25,015 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:04:25,015 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:04:25,015 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:04:32,339 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:04:34,425 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:04:35,838 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:04:38,005 - INFO - Test_User_Profile - test_UserLogin - test is Fail
+2024-02-27 21:06:51,490 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:06:51,491 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:06:51,491 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:06:51,491 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:06:51,491 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:06:51,491 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:06:55,470 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:06:56,994 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:06:58,572 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:07:03,001 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 21:07:27,970 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:07:27,971 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:07:27,971 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:07:27,971 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:07:27,972 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:07:27,972 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:07:40,966 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:07:42,514 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:07:44,738 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:07:51,682 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 21:10:52,397 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:10:52,399 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:10:52,399 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:10:52,399 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:10:52,400 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:10:52,400 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:11:01,780 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:11:04,577 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:11:05,956 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:11:11,018 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 21:15:17,775 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:15:17,776 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:15:17,776 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:15:17,776 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:15:17,777 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:15:17,777 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:15:30,551 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:15:32,177 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:15:33,348 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:15:38,608 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 21:21:05,594 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 21:21:05,595 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 21:21:05,596 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 21:21:05,596 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 21:21:05,596 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 21:21:05,596 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 21:21:12,972 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 21:21:14,402 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 21:21:15,891 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 21:21:20,886 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 23:15:09,766 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 23:15:09,767 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 23:15:09,767 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 23:15:09,767 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 23:15:09,767 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 23:15:09,767 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 23:15:16,165 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 23:15:18,362 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 23:15:19,869 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 23:15:24,523 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-27 23:18:10,478 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-27 23:18:10,480 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-27 23:18:10,480 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-27 23:18:10,480 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-27 23:18:10,481 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-27 23:18:10,481 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-27 23:18:22,277 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-27 23:18:23,932 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-27 23:18:25,314 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-27 23:18:31,581 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-28 20:33:30,891 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-28 20:33:30,893 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-28 20:33:30,893 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-28 20:33:30,893 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-28 20:33:30,894 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-28 20:33:30,894 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-28 20:33:42,026 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-28 20:33:43,758 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-28 20:33:45,437 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-28 20:33:47,622 - INFO - Test_User_Profile - test_UserLogin - test is Fail
+2024-02-28 20:36:05,469 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-28 20:36:05,470 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-28 20:36:05,470 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-28 20:36:05,470 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-28 20:36:05,470 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-28 20:36:05,470 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-28 20:36:17,669 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-28 20:36:25,426 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-28 20:36:27,549 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-28 20:36:29,904 - INFO - Test_User_Profile - test_UserLogin - test is Fail
+2024-02-28 20:37:49,890 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-28 20:37:49,892 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-28 20:37:49,892 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-28 20:37:49,892 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-28 20:37:49,893 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-28 20:37:49,893 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-28 20:37:58,530 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-28 20:38:00,983 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-28 20:38:02,771 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-28 20:38:08,074 - INFO - Test_User_Profile - test_UserLogin - test is Pass
+2024-02-28 20:42:32,495 - INFO - Test_User_Profile - test_UserLogin - test is started
+2024-02-28 20:42:32,502 - INFO - Test_User_Profile - test_UserLogin - this is info log
+2024-02-28 20:42:32,503 - WARNING - Test_User_Profile - test_UserLogin - this is warning log
+2024-02-28 20:42:32,503 - ERROR - Test_User_Profile - test_UserLogin - this is error log
+2024-02-28 20:42:32,504 - CRITICAL - Test_User_Profile - test_UserLogin - this is critical log
+2024-02-28 20:42:32,504 - INFO - Test_User_Profile - test_UserLogin -  Opening Browser
+2024-02-28 20:42:42,649 - INFO - Test_User_Profile - test_UserLogin - Going to Url-->https://www.amazon.in
+2024-02-28 20:42:45,813 - INFO - Test_User_Profile - test_UserLogin - Entering the Email
+2024-02-28 20:42:48,559 - INFO - Test_User_Profile - test_UserLogin - Entering the Password
+2024-02-28 20:42:55,255 - INFO - Test_User_Profile - test_UserLogin - test is Pass
